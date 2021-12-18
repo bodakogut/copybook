@@ -1,0 +1,11 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: shrift;
+	font-size: 100px;
+}
+
+@font-face{
+	font-family: shrift;
+	src: url(./Shrift/Lobster-Regular.ttf);
+}
